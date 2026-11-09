@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "Name": "Roseann Gonzaga",
+      "Email": "groseann297@gmail.com"
+    },
+
+    {
+      "id": 2,
+      "Name": "Kurt Andrew Sangoyo",
+      "Email": "kurtandrewsangoyo487@gmail.com"
+    },
+
+    {
+      "id": 3,
+      "Name": "John Ronel Escobido",
+      "Email": "ronelsesco22@gmail.com"
+    },
+
+    {
+      "id": 4,
+      "Name": "C-jay Rivera",
+      "Email": "jajayrivera896@gmail.com"
+    }
+
+  ]
+}
